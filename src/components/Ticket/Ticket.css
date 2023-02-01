@@ -1,0 +1,34 @@
+#ticket-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ticket-container div {
+    align-items: center;
+    margin: 0px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+
+@media (max-width:768px) {
+    #ticket-container {
+        flex-direction: column;
+    }
+}
+
+@media (max-width:378px) {
+    .ticket {
+        left: -5px;
+    }
+     
+}
+
+@media (max-width:333px) {
+    .ticket {
+        width: 250px !important;
+        left: 5px;
+    }
+
+}

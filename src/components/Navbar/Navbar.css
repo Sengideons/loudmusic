@@ -1,0 +1,19 @@
+.home-menu-text .reg-btn{
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 12px;
+    border-radius: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.sub-menu div .reg-btn{
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 12px;
+    border-radius: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 800;
+}
